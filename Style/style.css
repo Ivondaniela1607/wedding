@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --Soft-red: hsl(21, 100%, 85%);
+  --Yellow: hsl(12, 100%, 82%);
+  --Yellow: hsl(358, 60%, 75%);
+  --Yellow: hsl(263, 6%, 43%);
+
+}
+
+.container-header {
+  border: 1px red solid;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container-header img {
+  width: 50px;
+}
+
+
